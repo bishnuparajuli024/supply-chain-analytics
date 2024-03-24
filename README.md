@@ -1,4 +1,4 @@
-# supply-chain-analytics
+# Supply-Chain-Analytics
 This is a repository of materials on supply chain analytics. 
 
 Some of the materials which can be handy are:
