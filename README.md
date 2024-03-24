@@ -54,9 +54,9 @@ CFx: Comprehensive Final Exam
 
 This is a final proctored exam that covers concepts across 5 courses explained above. To take the CFx, a student must have passed all five SCx courses as a verified learner. This exam is offered twice a year. Upon completion, the student gains a MicroMasters in SCM credential from MITx.
 
-**Here is a list of reference texts that we have found useful in the past.  These are not the only books out there; they are just the ones we typically refer back to.  If there are later editions – use those!
-**
-_Bertsimas and Freund, (2004) Data, Models, and Decisions: The Fundamentals of Management Science, Dynamic Ideas.  
+Here is a list of reference texts that we have found useful in the past.  These are not the only books out there; they are just the ones we typically refer back to.  If there are later editions – use those!
+
+Bertsimas and Freund, (2004) Data, Models, and Decisions: The Fundamentals of Management Science, Dynamic Ideas.  
 Winston (2003) Operations Research: Applications and Algorithms, Cengage Learning.  There are many different books by Wayne Winston - they are all pretty good.  
 Hillier and Lieberman (2012) Introduction to Operations Research, McGraw Hill.
 Albright, Winston, Zappe (2010) Data Analysis and Decision Making, Cengage Learning.  
