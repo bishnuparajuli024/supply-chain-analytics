@@ -1,4 +1,4 @@
-# Supply-Chain-Analytics
+# Supply-Chain-Analytics [MITx]
 This is a repository of materials on supply chain analytics. 
 
 Some of the materials which can be handy are:
